@@ -371,6 +371,25 @@ I also learned the importance of recording findings properly. Documenting the to
 
 Most importantly, these exercises reinforced the need to work responsibly. Having access to cybersecurity tools does not mean they should be used on just any website or network. Permission and an approved testing scope must always come first.
 
+
+# 8. Evidence Collected
+
+![alt text](https://github.com/PrudenceSelasiDela-Boso/Footprinting-Reconnaissance-and-Network-Scanning/blob/main/1%20whois%20result.png)
+
+![alt text](https://github.com/PrudenceSelasiDela-Boso/Footprinting-Reconnaissance-and-Network-Scanning/blob/main/2%20whatweb.png)
+
+![alt text](https://github.com/PrudenceSelasiDela-Boso/Footprinting-Reconnaissance-and-Network-Scanning/blob/main/3%20nslookup.png)
+
+![alt text](https://github.com/PrudenceSelasiDela-Boso/Footprinting-Reconnaissance-and-Network-Scanning/blob/main/4%20Curl%20-%20I.png)
+
+![alt text](https://github.com/PrudenceSelasiDela-Boso/Footprinting-Reconnaissance-and-Network-Scanning/blob/main/5%20wafw00f.png)
+
+![alt text](https://github.com/PrudenceSelasiDela-Boso/Footprinting-Reconnaissance-and-Network-Scanning/blob/main/6%20dnsrecon.png)
+
+![alt text](
+
+![alt text](
+
 ---
 
 **Report prepared as part of the Networkwalks Cybersecurity and Ethical Hacking Internship – Week 2.**
