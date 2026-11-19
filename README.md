@@ -386,9 +386,13 @@ Most importantly, these exercises reinforced the need to work responsibly. Havin
 
 ![alt text](https://github.com/PrudenceSelasiDela-Boso/Footprinting-Reconnaissance-and-Network-Scanning/blob/main/6%20dnsrecon.png)
 
-![alt text](
+![alt text](https://github.com/PrudenceSelasiDela-Boso/Footprinting-Reconnaissance-and-Network-Scanning/blob/main/4%20tsk4%20microsoft%20as%20domain.png)
 
-![alt text](
+![alt text](https://github.com/PrudenceSelasiDela-Boso/Footprinting-Reconnaissance-and-Network-Scanning/blob/main/5%20tsk4%20harvester%20-b%20all.png)
+
+![alt text](https://github.com/PrudenceSelasiDela-Boso/Footprinting-Reconnaissance-and-Network-Scanning/blob/main/1%20tsk5%20ipconfig.png)
+
+![alt text](https://github.com/PrudenceSelasiDela-Boso/Footprinting-Reconnaissance-and-Network-Scanning/blob/main/3%20tsk5%20topology.png)
 
 ---
 
